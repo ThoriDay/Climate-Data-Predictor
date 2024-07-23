@@ -1,4 +1,4 @@
-# Climate-Data-Predictor
+# Weather Predictor LSTM Model
 ## Project Overview
 
 The Climate-Data-Predictor project is an end-to-end data science initiative aimed at predicting future weather conditions using historical data from various weather stations across the UK, provided by the MET Office.
@@ -21,7 +21,7 @@ The project offers accurate and reliable weather predictions for the next 12 mon
 It delivers performance metrics (MSE and RMSE) for each model, ensuring transparency and reliability of the predictions.
 This project is a comprehensive solution for weather prediction, leveraging advanced machine learning techniques to deliver precise and actionable weather forecasts.
 
-Feel free to explore the code, datasets, and detailed documentation in the repository to understand the full scope and capabilities of the Climate-Data-Predictor project.
+Feel free to explore the code, datasets, and detailed documentation in the repository to understand the full scope and capabilities of the project.
 
 
 
